@@ -1,4 +1,4 @@
-*_Hola, soy Edu estudio en *1º DAW*, en el IES Playamar, ubicado en Torremolinos, Málaga, España, Europa. 👋_*
+*_Hola, soy Eduardo Romero Codes, estudio en *1º DAW*, en el IES Playamar, ubicado en Torremolinos, Málaga, España, Europa. 👋_*
 
 Estudio en *1º DAW*, en el _IES Playamar_, ubicado en Torremolinos, Málaga, España, Europa.
 
